@@ -14,8 +14,8 @@ Welcome to the ESPNcricinfo Replica project – your one-stop destination for al
 - **Backend:** My json server like db.json
 
 ## 📸 Screenshots
-![Light Mode](https://drive.google.com/file/d/1MgpMsIu9dXliYAJ655mZ7_wtaJcB3EaL/view?usp=sharing)
-![Dark Mode](https://drive.google.com/file/d/1K_A5c5RMjwTDGDNtjOpRE0dKIzBbeEVL/view?usp=sharing)
+![Light Mode](https://drive.google.com/drive/u/0/my-drive?q=after:2023-11-17%20parent:0ABIoSEciecDUUk9PVA)
+![Dark Mode](https://drive.google.com/drive/u/0/my-drive?q=after:2023-11-17%20parent:0ABIoSEciecDUUk9PVA)
 
 ## 🙌 Acknowledgments
 [I Used Raact Icons Library and Chakra UI Library]
