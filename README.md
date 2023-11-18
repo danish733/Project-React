@@ -30,4 +30,7 @@ Welcome to the ESPNcricinfo Replica project – your one-stop destination for al
 - Questions, feedback, or just want to chat cricket? Reach out at [danishreza733@gmail.com](mailto:danishreza733@gmail.com) or [Twitter handle @danish_reza_733](https://twitter.com/danish_reza_733).
 
 ## 🌍 Test Website
-- - This is the [Vercel deployed link](https://espncricinfo-clone-atupl93rv-md-danishs-projects.vercel.app/). Remember Navbar card takes time to load because i deployed my db.json Mock server on Render.
+- This is the [Vercel deployed link](https://espncricinfo-clone-atupl93rv-md-danishs-projects.vercel.app/). Remember Navbar card takes time to load because i deployed my db.json Mock server on Render.
+
+## 🌍 Responsive Design
+- The website is currently not designed to be fully responsive. For the best experience, it is recommended to access the site on a desktop or laptop.
