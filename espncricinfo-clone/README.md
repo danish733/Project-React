@@ -31,3 +31,6 @@ Welcome to the ESPNcricinfo Replica project – your one-stop destination for al
 
 ## 🌍 Test Website
 - - This is the [Vercel deployed link](https://espncricinfo-clone-atupl93rv-md-danishs-projects.vercel.app/). Remember Navbar card takes time to load because i deployed my db.json Mock server on Render.
+
+## 🌍 Responsive Design
+- The website is currently not designed to be fully responsive. For the best experience, it is recommended to access the site on a desktop or laptop.
